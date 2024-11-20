@@ -32,10 +32,10 @@ body {
   left: 50%;
   transform: translate(-50%, -50%); /* Center horizontally and vertically */
   color: green;
-  font-size: .3em; /* Increase font size */
+  font-size: 1em; /* Increase font size */
   font-family: "Palatino", serif; /* Change the font */
   /*background-color: rgba(255, 255, 255, 0.8); /* Optional: Add a background */
-  /*padding: 20px; /* Add padding for spacing */
+  padding: 20px; /* Add padding for spacing */
   text-align: center; /* Center the text inside the box */
   /*box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Add shadow */
 }
