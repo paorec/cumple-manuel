@@ -27,17 +27,16 @@ body {
 
 #message {
   display: none; /* Hidden by default */
-  position: top; /* Fixed position to center on screen */
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%); /* Center horizontally and vertically */
-  color: green;
-  font-size: 2em; /* Increase font size */
-  font-family: "Palatino", serif; /* Change the font */
-  /*background-color: rgba(255, 255, 255, 0.8); /* Optional: Add a background */
-  padding: 20px; /* Add padding for spacing */
-  text-align: center; /* Center the text inside the box */
-  /*box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Add shadow */
+    position: fixed; /* Fixed position to center on screen */
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); /* Center horizontally and vertically */
+    color: green;
+    font-size: 2em; /* Increase font size */
+    font-family: "Palatino", serif; /* Change the font */
+    padding: 20px; /* Add padding for spacing */
+    border-radius: 10px; /* Optional: Round corners */
+    text-align: center; /* Center the text inside the box */
 }
 
  .cake {
