@@ -28,12 +28,12 @@ body {
 #message {
   display: none; /* Hidden by default */
   position: fixed; /* Fixed position to center on screen */
-  top: 10%;
+  top: 50%;
   left: 50%;
-  transform: translate(-50%, -10%); /* Center horizontally and vertically */
+  transform: translate(-50%, -50%); /* Center horizontally and vertically */
   color: green;
-  font-size: .5em; /* Increase font size */
-  font-family: "Times", serif; /* Change the font */
+  font-size: .3em; /* Increase font size */
+  font-family: "Palatino", serif; /* Change the font */
   /*background-color: rgba(255, 255, 255, 0.8); /* Optional: Add a background */
   /*padding: 20px; /* Add padding for spacing */
   text-align: top; /* Center the text inside the box */
