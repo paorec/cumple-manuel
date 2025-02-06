@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     if (activeCandles === 0) {
       const message = document.getElementById("message");
-      message.textContent = "¡feliz cumpleaños Gachoris! te quiero <3";
+      message.textContent = "¡feliz cumpleaños Gachoris! te quiero ";
       message.style.display = "block"; // Ensure the message is visible
     }
   }
